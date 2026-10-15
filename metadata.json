@@ -1,0 +1,6 @@
+{
+  "name": "AMR FITNESS STUDIO",
+  "description": "AMR Fitness Studio (Apex Muscle Realm) - Premium gym and strength training studio. Expert coaching, modern equipment, buddy packages, and flexible membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
